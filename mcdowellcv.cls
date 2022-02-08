@@ -23,7 +23,7 @@
 
 % Set up the fonts according to options
 \def\mainfontsize{11pt}
-\def\mainfontface{Times New Roman}
+\def\mainfontface{TeX Gyre Termes}
 
 \DeclareOption{calibri}{%
   \def\mainfontface{Calibri}
