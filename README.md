@@ -1,4 +1,4 @@
-# View resume here
+# PDF
 https://github.com/rlgo/resume/blob/master/resume.pdf
 
 # McDowell CV
